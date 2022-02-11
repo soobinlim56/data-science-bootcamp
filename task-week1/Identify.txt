@@ -1,5 +1,5 @@
 Please enter your details:
 
-Name: 
-NETID:
-Favorite book and author: 
+Name: Soobin Lim 
+NETID: sl7141
+Favorite book and author: Harry Potter
